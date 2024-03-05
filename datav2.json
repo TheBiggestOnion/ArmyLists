@@ -28631,7 +28631,7 @@
 						"points": 1
 					},
 					{
-						"name": "Pelagir Javelins",
+						"name": "Pelargir Javelins",
 						"points": 2
 					},
 					{
@@ -28641,12 +28641,11 @@
 					{
 						"name": "Bow",
 						"points": 1
-					},
+					}
               ],
-			  
 				"wargear": [
 					"Armour",
-					"Hand weapon"
+					"Sword"
 				]
 			},
 			{
@@ -33336,12 +33335,12 @@
 				"name": "Mountain Dweller",
 				"tag": "Active",
 				"definition": "Mountain Dwellers may re-roll any Jump, Leap and Climb tests. In addition, they may move through rocky areas that are classified as difficult terrain as if they were open ground."
-			}
+			},
 			{
 				"name": "Marine",
 				"tag": "Passive",
 				"definition": "Wardens of Pelargir add +1 to all Swim rolls. "
-			}
+			},
 			{
 				"name": "Pelagir Javelins",
 				"tag": "Passive",
